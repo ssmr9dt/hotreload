@@ -1,0 +1,19 @@
+{
+  "name": "hotreload",
+  "version": "1.0.0",
+  "description": "automatic reload",
+  "main": "hotreload.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssmr9dt/hotreload.git"
+  },
+  "keywords": [
+    "require", "reload"
+  ],
+  "author": "Satoshi Murakami <ssmr9dt+github@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssmr9dt/hotreload/issues"
+  },
+  "homepage": "https://github.com/ssmr9dt/hotreload"
+}
