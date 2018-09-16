@@ -1,6 +1,6 @@
 {
   "name": "@ssmr9dt/hotreload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "automatic reload",
   "main": "hotreload.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ssmr9dt/hotreload.git"
+    "url": "https://github.com/ssmr9dt/hotreload.git"
   },
   "keywords": [
     "reload"
