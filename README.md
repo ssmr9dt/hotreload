@@ -11,7 +11,7 @@ This is Hot reload
 Read test/example.js
 
 ```js
-var hotreload = require("../hotreload.js");
+var hotreload = require("@ssmr9dt/hotreload");
 
 (function _Exec(){
   setTimeout(_Exec, 1000);
