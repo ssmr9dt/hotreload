@@ -4,7 +4,7 @@ This is Hot reload
 
 ## Setup
 
-    $ npm install hotreload
+    $ npm i ssmr9dt/hotreload
 
 ## About
 
