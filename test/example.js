@@ -1,6 +1,6 @@
-var hotreload = require("../hotreload.js");
+var hotreload = require(__dirname + "/../hotreload.js");
 
-const no1_path = "./server.d/no1.js";
+const no1_path = __dirname + "/server.d/no1.js";
 
 var no1 = require(no1_path);
 
