@@ -16,7 +16,7 @@ var hotreload = require("@ssmr9dt/hotreload");
 (function _Exec(){
   setTimeout(_Exec, 1000);
   
-  hotreload(no1_path, function(err, module){
+  hotreload(__dirname + "/server.d/no1.js", function(err, module){
     no1 = module || null;
   });
   
