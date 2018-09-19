@@ -1,4 +1,6 @@
 
+var no = 0;
+
 module.exports = function(){
-  console.log("no1.js executed");
+  console.log("no1", no++);
 };

@@ -1,6 +1,6 @@
 {
   "name": "@ssmr9dt/hotreload",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "automatic reload",
   "main": "hotreload.js",
   "directories": {
@@ -17,7 +17,7 @@
     "reload"
   ],
   "author": "Satoshi Murakami <ssmr9dt@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ssmr9dt/hotreload/issues"
   },
