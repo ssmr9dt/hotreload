@@ -16,14 +16,11 @@ var hotreload = require("@ssmr9dt/hotreload");
 (function _Exec(){
   setTimeout(_Exec, 1000);
   
-  var no1;
-  
-  hotreload("./server.d/no1.js", function(err, module){
-    if (!!err) { return; }
+  hotreload(no1_path, function(err, module){
     no1 = module || null;
   });
   
-  if (!!no1) {
+  if (no1 && typeof(no1) === "function") {
     no1();
   }
 })();
